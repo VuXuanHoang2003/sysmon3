@@ -1,0 +1,10 @@
+2026-01-16T10:15:30 ip-1 sshd[12345]: Accepted publickey for ubuntu from 10.0.0.5 port 55231 ssh2
+2026-01-16T10:20:01 ip-1 CRON[12346]: pam_unix(cron:session): session opened for user root(uid=0)
+204.76.203.219 - - [16/Jan/2026:10:30:23 +0700] "GET / HTTP/1.1" 200 409 "-" "Mozilla/5.0"
+2026-01-16T11:01:12 ip-1 sshd[23456]: Invalid user admin from 185.23.45.67 port 58921
+2026-01-16T11:01:15 ip-1 sshd[23456]: Failed password for root from 185.23.45.67 port 58921 ssh2
+2026-01-16T11:01:18 ip-1 sshd[23456]: Failed password for root from 185.23.45.67 port 58921 ssh2
+2026-01-16T11:01:21 ip-1 sshd[23456]: Failed password for root from 185.23.45.67 port 58921 ssh2
+213.209.159.181 - - [16/Jan/2026:11:05:12 +0700] "GET /.git/config HTTP/1.1" 404 134 "-" "Mozilla/5.0"
+91.232.238.112 - - [16/Jan/2026:11:07:12 +0700] "GET /admin/config.php HTTP/1.0" 404 162 "-" "xfa1"
+2026-01-16T11:10:22 ip-1 sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/bash
