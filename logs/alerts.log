@@ -400,3 +400,334 @@
 [2026-01-18 23:27:09] ALERT: Anomaly detected | Reasons: Failed login
 [2026-01-18 23:27:09] ALERT: Anomaly detected | Reasons: Failed login
 [2026-01-18 23:27:10] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 08:34:55] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:34:56] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:34:57] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:34:58] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:34:59] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:35:01] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:35:01] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:35:02] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:35:03] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 08:35:34] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:35:35] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:35:37] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:35:38] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:35:39] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:35:40] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:35:41] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:35:42] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:35:43] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 08:36:14] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:36:15] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:36:16] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:36:17] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:36:18] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:36:19] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:36:20] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:36:21] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:36:22] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 08:36:53] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:36:53] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:36:54] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:36:56] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:36:57] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:36:58] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:36:59] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:37:00] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:37:01] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 08:37:32] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:37:33] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:37:35] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:37:36] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:37:37] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:37:38] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:37:39] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:37:40] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:37:41] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 08:38:12] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:38:13] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:38:14] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:38:16] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:38:17] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:38:18] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:38:19] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:38:20] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:38:21] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 08:38:52] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:38:53] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:38:54] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:38:55] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:38:56] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:38:57] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:38:58] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:38:59] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:39:00] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 08:39:31] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:39:32] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:39:33] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:39:34] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:39:35] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:39:36] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:39:37] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:39:38] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:39:39] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 08:40:10] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:40:11] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:40:12] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:40:13] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:40:14] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:40:15] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:40:16] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:40:17] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:40:18] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 08:40:33] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:40:34] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:40:35] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:40:36] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:40:37] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:40:38] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:40:39] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:40:40] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:40:41] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 08:41:12] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:41:13] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:41:14] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:41:15] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:41:16] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:41:17] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:41:18] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:41:19] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:41:20] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 08:41:51] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:41:52] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:41:53] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:41:54] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:41:55] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:41:56] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:41:57] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:41:58] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:41:59] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 08:42:30] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:42:31] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:42:32] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:42:33] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:42:34] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:42:35] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:42:35] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:42:36] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:42:38] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 08:43:09] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:43:10] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:43:11] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:43:12] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:43:13] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:43:14] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:43:15] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:43:16] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:43:17] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 08:43:48] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:43:48] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:43:49] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:43:50] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:43:51] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:43:52] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:43:53] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:43:54] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:43:55] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 08:44:26] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:44:27] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:44:28] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:44:29] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:44:30] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:44:31] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:44:32] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:44:33] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:44:34] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 08:45:05] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:45:06] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:45:07] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:45:08] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:45:09] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:45:10] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:45:11] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:45:12] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:45:12] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 08:45:43] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:45:44] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:45:45] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:45:46] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:45:47] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:45:48] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:45:49] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:45:50] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:45:51] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 08:46:22] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:46:23] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:46:25] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:46:26] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:46:27] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:46:28] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:46:29] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:46:30] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:46:31] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 08:47:02] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:47:03] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 08:47:04] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:47:04] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:47:05] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:47:06] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 08:47:07] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:47:08] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 08:47:09] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 09:02:47] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 09:02:48] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 09:02:49] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:02:51] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:02:52] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:02:52] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:02:53] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 09:02:54] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 09:02:55] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 09:03:27] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 09:03:28] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 09:03:29] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:03:29] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:03:31] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:03:32] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:03:33] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 09:03:34] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 09:03:35] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 09:04:06] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 09:04:07] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 09:04:08] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:04:09] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:04:10] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:04:11] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:04:12] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 09:04:13] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 09:04:14] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 09:04:45] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 09:04:46] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 09:04:47] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:04:49] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:04:50] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:04:51] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:04:52] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 09:04:53] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 09:04:53] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 09:05:24] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 09:05:25] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 09:05:26] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:05:27] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:05:29] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:05:30] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:05:31] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 09:05:32] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 09:05:33] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 09:06:04] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 09:06:05] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 09:06:06] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:06:07] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:06:08] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:06:09] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:06:10] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 09:06:11] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 09:06:12] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 09:06:43] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 09:06:44] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 09:06:45] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:06:46] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:06:47] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:06:48] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:06:49] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 09:06:50] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 09:06:51] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 09:07:22] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 09:07:23] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 09:07:24] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:07:25] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:07:26] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:07:27] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:07:28] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 09:07:29] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 09:07:30] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 09:08:01] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 09:08:02] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 09:08:03] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:08:04] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:08:05] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:08:06] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:08:07] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 09:08:08] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 09:08:09] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 09:08:40] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 09:08:41] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 09:08:42] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:08:44] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:08:44] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:08:45] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:08:46] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 09:08:47] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 09:08:49] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 09:09:20] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 09:09:21] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 09:09:22] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:09:23] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:09:24] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:09:25] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:09:26] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 09:09:27] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 09:09:28] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 09:09:58] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 09:09:59] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 09:10:01] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:10:01] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:10:02] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:10:04] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:10:05] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 09:10:06] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 09:10:07] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 09:10:38] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 09:10:39] ALERT: Anomaly detected | Reasons: General anomaly
+[2026-01-21 09:10:40] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:10:41] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:10:42] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:10:43] ALERT: Anomaly detected | Reasons: Failed login
+[2026-01-21 09:10:44] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 09:10:45] ALERT: Anomaly detected | Reasons: Admin path access, Suspicious web request
+[2026-01-21 09:10:45] ALERT: Anomaly detected | Reasons: Root access
+[2026-01-21 20:05:43] ALERT: 🚨 HTTP brute-force / flood detected | IP: 42.112.91.250 | URI: /login
+[2026-01-21 20:09:43] ALERT: 🚨 HTTP Flood detected | IP: 42.112.91.250 | URI: /login | Count: 99 requests/60s
+[2026-01-21 20:10:45] ALERT: 🚨 HTTP Flood detected | IP: 42.112.91.250 | URI: /flood-test | Count: 27 requests/60s
+[2026-01-21 20:11:56] ALERT: 🚨 HTTP Flood detected | IP: 42.112.91.250 | URI: / | Count: 33 requests/60s
+[2026-01-21 20:14:47] ALERT: 🚨 HTTP Flood detected | IP: 42.112.91.250 | URI: /login | Count: 29 requests/60s
+[2026-01-21 20:16:54] ALERT: 🚨 HTTP Flood detected | IP: 42.112.91.250 | URI: / | Count: 194 requests/60s
+[2026-01-21 20:16:55] ALERT: 🚨 HTTP Flood detected | IP: 42.112.91.250 | URI: /flood-test | Count: 200 requests/60s
+[2026-01-21 20:16:56] ALERT: 🚨 HTTP Flood detected | IP: 42.112.91.250 | URI: /login | Count: 170 requests/60s
+[2026-01-21 20:17:07] ALERT: 🚨 HTTP Flood detected | IP: 42.112.91.250 | URI: /flood-test | Count: 37 requests/60s
+[2026-01-21 20:17:18] ALERT: 🚨 HTTP Flood detected | IP: 42.112.91.250 | URI: /flood-test | Count: 36 requests/60s
+[2026-01-21 20:17:29] ALERT: 🚨 HTTP Flood detected | IP: 42.112.91.250 | URI: /flood-test | Count: 36 requests/60s
+[2026-01-21 20:17:40] ALERT: 🚨 HTTP Flood detected | IP: 42.112.91.250 | URI: /flood-test | Count: 36 requests/60s
+[2026-01-21 20:17:51] ALERT: 🚨 HTTP Flood detected | IP: 42.112.91.250 | URI: /flood-test | Count: 17 requests/60s
+[2026-01-21 20:20:22] ALERT: 🚨 HTTP Flood detected | IP: 42.112.91.250 | URI: / | Count: 194 requests/60s
+[2026-01-21 20:20:23] ALERT: 🚨 HTTP Flood detected | IP: 42.112.91.250 | URI: /flood-test | Count: 200 requests/60s
+[2026-01-21 20:20:24] ALERT: 🚨 HTTP Flood detected | IP: 42.112.91.250 | URI: /login | Count: 170 requests/60s
+[2026-01-21 20:20:45] ALERT: 🚨 HTTP Flood detected | IP: 42.112.91.250 | URI: /flood-test | Count: 16 requests/60s
+[2026-01-21 20:20:56] ALERT: 🚨 HTTP Flood detected | IP: 42.112.91.250 | URI: /flood-test | Count: 34 requests/60s
+[2026-01-21 20:21:07] ALERT: 🚨 HTTP Flood detected | IP: 42.112.91.250 | URI: /flood-test | Count: 36 requests/60s
+[2026-01-21 20:21:18] ALERT: 🚨 HTTP Flood detected | IP: 42.112.91.250 | URI: /flood-test | Count: 34 requests/60s
+[2026-01-21 20:21:29] ALERT: 🚨 HTTP Flood detected | IP: 42.112.91.250 | URI: /flood-test | Count: 36 requests/60s
+[2026-01-21 20:21:40] ALERT: 🚨 HTTP Flood detected | IP: 42.112.91.250 | URI: /flood-test | Count: 35 requests/60s
+[2026-01-21 20:22:01] ALERT: 🚨 HTTP Flood detected | IP: 42.112.91.250 | URI: / | Count: 27 requests/60s
+[2026-01-21 20:22:12] ALERT: 🚨 HTTP Flood detected | IP: 42.112.91.250 | URI: / | Count: 29 requests/60s
+[2026-01-21 20:22:23] ALERT: 🚨 HTTP Flood detected | IP: 42.112.91.250 | URI: / | Count: 19 requests/60s
+[2026-01-21 20:23:15] ALERT: 🚨 HTTP Flood detected | IP: 42.112.91.250 | URI: /login | Count: 33 requests/60s
+[2026-01-21 20:23:26] ALERT: 🚨 HTTP Flood detected | IP: 42.112.91.250 | URI: /login | Count: 35 requests/60s
+[2026-01-21 20:23:37] ALERT: 🚨 HTTP Flood detected | IP: 42.112.91.250 | URI: /login | Count: 34 requests/60s
+[2026-01-21 20:23:48] ALERT: 🚨 HTTP Flood detected | IP: 42.112.91.250 | URI: /login | Count: 36 requests/60s
+[2026-01-21 20:23:59] ALERT: 🚨 HTTP Flood detected | IP: 42.112.91.250 | URI: /login | Count: 35 requests/60s
+[2026-01-21 20:24:10] ALERT: 🚨 HTTP Flood detected | IP: 42.112.91.250 | URI: /login | Count: 35 requests/60s
+[2026-01-21 20:24:21] ALERT: 🚨 HTTP Flood detected | IP: 42.112.91.250 | URI: /login | Count: 35 requests/60s
+[2026-01-21 20:24:32] ALERT: 🚨 HTTP Flood detected | IP: 42.112.91.250 | URI: /login | Count: 35 requests/60s
+[2026-01-21 20:24:43] ALERT: 🚨 HTTP Flood detected | IP: 42.112.91.250 | URI: /login | Count: 22 requests/60s
